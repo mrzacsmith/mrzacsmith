@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Zac Smith, Software Engineer!](https://res.cloudinary.com/devsec/image/upload/v1600148943/software-engineer_l6uzxd.png)]
+
+### Hi, My name is Zac!
 
 <!--
 **mrzacsmith/mrzacsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
