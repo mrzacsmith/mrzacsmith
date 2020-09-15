@@ -1,4 +1,4 @@
-![Zac Smith, Software Engineer!](https://res.cloudinary.com/devsec/image/upload/v1600189934/software_engineer_zac_iqaaau.png)
+![Zac Smith, Software Engineer!](https://res.cloudinary.com/devsec/image/upload/v1600191424/software_engineer_zac_final_cv6m2h.png)
 
 ### Hi, My name is Zac!
 
