@@ -2,14 +2,14 @@
 ## Hi, My name is Zac!
 
 ```js
-const README = {
+const readme = {
   pronouns: "he" | "him",
   aboutMe: ["techie", "star wars nerd", "gamer", "traveler", "curious about life"],
   technologies: {
     backEnd: ["nodejs", "express"],
     frontEnd: ["react", "redux"],
     database: ["mongo","sqlite"],
-    msic: ["linux", "web app pentetration testing"],
+    misc: ["linux", "web app pentetration testing"],
   },
   education: {
     coloradoTechicalUniversity: "mscs cybersecurity engineering",
