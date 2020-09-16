@@ -1,5 +1,24 @@
 ![Zac Smith, Software Engineer][heroImage]
-### Hi, My name is Zac!
+## Hi, My name is Zac!
+
+```js
+const README = {
+  pronouns: "He" | "Him",
+  aboutMe: ["techie", "star wars nerd", "gamer", "traveler", "curious about life"],
+  technologies: {
+    backEnd: ["nodejs", "express"],
+    frontEnd: ["react"],
+    database: ["mongo","sqlite"],
+    msic: ["linux", "web app pentetration testing"],
+  },
+  education: {
+    coloradoTechicalUniversity: "mscs cybersecurity engineering",
+    westernGovernorsUniversity: "mscs information assurance",
+    newMexicoStateUniversity: "bs information and communication technology"
+  }
+}
+
+```
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='25' height='25'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='30' height='30'></a>
