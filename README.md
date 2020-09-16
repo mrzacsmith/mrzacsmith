@@ -3,11 +3,11 @@
 
 ```js
 const README = {
-  pronouns: "He" | "Him",
+  pronouns: "he" | "him",
   aboutMe: ["techie", "star wars nerd", "gamer", "traveler", "curious about life"],
   technologies: {
     backEnd: ["nodejs", "express"],
-    frontEnd: ["react"],
+    frontEnd: ["react", "redux"],
     database: ["mongo","sqlite"],
     msic: ["linux", "web app pentetration testing"],
   },
