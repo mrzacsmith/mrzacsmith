@@ -1,18 +1,12 @@
-![Zac Smith, Software Engineer!](https://res.cloudinary.com/devsec/image/upload/v1600191424/software_engineer_zac_final_cv6m2h.png)
-
+![Zac Smith, Software Engineer][heroImage]
 ### Hi, My name is Zac!
 
-<!--
-**mrzacsmith/mrzacsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mrzacsmith)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mrzacsmith/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mrzacsmith)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/zacsmith)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@mrzacsmith)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg' alt='npm' height='40'>](https://www.npmjs.com/~mrzacsmith) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrzacsmith&show_icons=true)  
+![Profile views](https://gpvc.arturio.dev/mrzacsmith) 
+
+[heroImage]: https://res.cloudinary.com/devsec/image/upload/v1600191424/software_engineer_zac_final_cv6m2h.png
