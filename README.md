@@ -1,5 +1,7 @@
 ![Zac Smith, Software Engineer][heroImage]
+
 ## Hi, My name is Zac!
+
 
 ```js
 const readme = {
@@ -15,7 +17,9 @@ const readme = {
     coloradoTechicalUniversity: "mscs cybersecurity engineering",
     westernGovernorsUniversity: "mscs information assurance",
     newMexicoStateUniversity: "bs information and communication technology"
-  }
+  },
+  challenge: 
+    'Preparing for the JS Node Application Development and MongoDB Certified Developer certifications.'
 }
 
 ```
