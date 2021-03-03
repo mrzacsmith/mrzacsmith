@@ -8,14 +8,13 @@ const readme = {
   pronouns: "he" | "him",
   aboutMe: ["techie", "star wars nerd", "gamer", "traveler", "curious about life"],
   technologies: {
-    backEnd: ["nodejs", "express"],
-    frontEnd: ["react", "redux"],
-    database: ["mongo","sqlite"],
+    backEnd: ["nodejs", "express", "cors", "helmet"],
+    frontEnd: ["react", "hooks"],
+    database: ["mongo","sqlite3"],
     misc: ["linux", "web app pentetration testing"],
   },
   education: {
     coloradoTechicalUniversity: "mscs cybersecurity engineering",
-    westernGovernorsUniversity: "mscs information assurance",
     newMexicoStateUniversity: "bs information and communication technology"
   },
   challenge: 
