@@ -11,7 +11,7 @@ const readme = {
     backEnd: ["nodejs", "express", "cors", "helmet"],
     frontEnd: ["react", "hooks"],
     database: ["mongo","sqlite3"],
-    misc: ["linux", "web app pentetration testing"],
+    misc: ["linux", "web app pentetration testing", "certified scrum master"],
   },
   education: {
     coloradoTechicalUniversity: "mscs cybersecurity engineering",
