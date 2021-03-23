@@ -32,4 +32,4 @@ const readme = {
 
 ![Profile views](https://gpvc.arturio.dev/mrzacsmith) 
 
-[heroImage]: https://res.cloudinary.com/devsec/image/upload/v1600191424/software_engineer_zac_final_cv6m2h.png
+[heroImage]: https://res.cloudinary.com/codeshock/image/upload/v1600191424/software_engineer_zac_final_cv6m2h.png
