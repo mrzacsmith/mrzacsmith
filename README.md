@@ -9,9 +9,9 @@ const readme = {
   aboutMe: ["techie", "star wars nerd", "gamer", "traveler", "curious about life"],
   loves: ["akm", "mars", "darth vader"],
   technologies: {
-    backEnd: ["nodejs", "express", "cors", "helmet", "baas"],
-    frontEnd: ["react", "hooks"],
-    database: ["mongo","sqlite3"],
+    backEnd: ["nodejs", "express", "cors", "helmet", "baas", "rest"],
+    frontEnd: ["react", "recoil", "hooks"],
+    database: ["mongo", "mysql", "sqlite3"],
     misc: ["linux", "web app pentetration testing", "certified scrum master"],
   },
   education: {
