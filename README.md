@@ -7,8 +7,9 @@
 const readme = {
   pronouns: "he" | "him",
   aboutMe: ["techie", "star wars nerd", "gamer", "traveler", "curious about life"],
+  likes: ["akm", "mars"],
   technologies: {
-    backEnd: ["nodejs", "express", "cors", "helmet"],
+    backEnd: ["nodejs", "express", "cors", "helmet", "baas"],
     frontEnd: ["react", "hooks"],
     database: ["mongo","sqlite3"],
     misc: ["linux", "web app pentetration testing", "certified scrum master"],
