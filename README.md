@@ -7,7 +7,7 @@
 const readme = {
   pronouns: "he" | "him",
   aboutMe: ["techie", "star wars nerd", "gamer", "traveler", "curious about life"],
-  likes: ["akm", "mars"],
+  loves: ["akm", "mars", "darth vader"],
   technologies: {
     backEnd: ["nodejs", "express", "cors", "helmet", "baas"],
     frontEnd: ["react", "hooks"],
