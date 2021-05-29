@@ -11,7 +11,7 @@ const readme = {
   technologies: {
     backEnd: ["nodejs", "express", "cors", "helmet", "baas", "rest"],
     frontEnd: ["react", "recoil", "hooks"],
-    database: ["mongo", "mysql", "sqlite3"],
+    database: ["mongo", "redis", "mysql", "sqlite3"],
     misc: ["linux", "web app pentetration testing", "certified scrum master"],
   },
   education: {
