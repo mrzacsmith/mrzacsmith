@@ -9,9 +9,11 @@ const readme = {
   aboutMe: ["techie", "star wars nerd", "gamer", "traveler", "curious about life"],
   loves: ["akm", "mars", "darth vader"],
   technologies: {
-    backEnd: ["nodejs", "express", "cors", "helmet", "baas", "rest"],
+    backEnd: ["nodejs", "express", "cors", "helmet", "baas", "rest", "saas"],
     frontEnd: ["react", "recoil", "hooks"],
-    database: ["mongo", "redis", "mysql", "sqlite3"],
+    database: ["mongo", "redis", "sql", "supabase"],
+    deployment: ["google cloud platform", "netlify", "heroku"],
+    serverless: ["cloud functions", "netlify functions", "supabase"],
     misc: ["linux", "web app pentetration testing", "certified scrum master"],
   },
   education: {
