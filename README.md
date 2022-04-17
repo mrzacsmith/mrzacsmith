@@ -7,13 +7,12 @@
 const readme = {
   pronouns: "he" | "him",
   aboutMe: ["techie", "star wars nerd", "gamer", "traveler", "curious about life"],
-  loves: ["akm", "mars", "darth vader"],
+  loves: ["akm", "mars", "darth vader", "hatch green chili],
   technologies: {
     backEnd: ["nodejs", "express", "cors", "helmet", "baas", "rest", "saas"],
-    frontEnd: ["react", "recoil", "hooks"],
-    database: ["mongo", "redis", "sql", "supabase"],
+    database: ["mongo", "firestore", "redis", "sql", "supabase"],
     deployment: ["google cloud platform", "netlify", "heroku"],
-    serverless: ["cloud functions", "netlify functions", "supabase"],
+    serverless: ["cloud functions", "firebase", "netlify functions", "supabase"],
     misc: ["linux", "web app pentetration testing", "certified scrum master"],
   },
   education: {
