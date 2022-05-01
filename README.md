@@ -9,7 +9,7 @@ const readme = {
   aboutMe: ["techie", "star wars nerd", "gamer", "traveler", "curious about life"],
   loves: ["akm", "mars", "darth vader", "hatch green chile"],
   technologies: {
-    backEnd: ["nodejs", "express", "cors", "helmet", "baas", "rest", "saas"],
+    backEnd: ["nodejs", "golang", "express", "cors", "helmet", "baas", "rest", "saas"],
     database: ["mongo", "firestore", "redis", "sql", "supabase"],
     deployment: ["google cloud platform", "netlify", "heroku"],
     serverless: ["cloud functions", "firebase", "netlify functions", "supabase"],
