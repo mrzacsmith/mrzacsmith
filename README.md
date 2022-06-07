@@ -5,9 +5,9 @@
 
 ```js
 const readme = {
-  pronouns: "he" | "him",
+  pronouns: "he" || "him",
   aboutMe: ["techie", "star wars nerd", "gamer", "traveler", "curious about life"],
-  loves: ["akm", "mars", "darth vader", "hatch green chile"],
+  loves: ["akm", "mars", "darth vader", "hatch green chile", "building web apps"],
   technologies: {
     backEnd: ["nodejs", "golang", "express", "cors", "helmet", "baas", "rest", "saas"],
     database: ["mongo", "firestore", "redis", "sql", "supabase"],
