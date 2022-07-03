@@ -9,10 +9,11 @@ const readme = {
   aboutMe: ["techie", "star wars nerd", "gamer", "traveler", "curious about life"],
   loves: ["akm", "mars", "darth vader", "hatch green chile", "building web apps"],
   technologies: {
-    backEnd: ["nodejs", "golang", "express", "cors", "helmet", "baas", "rest", "saas", "graphql],
+    backEnd: ["nodejs", "golang", "express", "cors", "helmet", "baas", "rest", "saas", "graphql"],
     database: ["mongo", "firestore", "redis", "sql", "supabase"],
     deployment: ["google cloud platform", "netlify", "heroku"],
     serverless: ["cloud functions", "firebase", "netlify functions", "supabase"],
+    cms: ["ghost cms"],
     misc: ["cloundiary api", "web app pentetration testing", "certified scrum master"],
   },
   education: {
@@ -21,7 +22,9 @@ const readme = {
   },
   projects: {
     codeshock: "https://codeshock.dev",
-    jsdevworld: "https://jsdevworld.com"
+    jsdevworld: "https://jsdevworld.com",
+    getCredManagemnet: "https://cred.management",
+    akm: "https://akm.to"
   },
   challenge: 
     'Preparing for the JS Node Application Development and MongoDB Certified Developer certifications.'
