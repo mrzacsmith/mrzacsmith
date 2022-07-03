@@ -19,6 +19,10 @@ const readme = {
     coloradoTechicalUniversity: "mscs cybersecurity engineering",
     newMexicoStateUniversity: "bs information and communication technology"
   },
+  projects: {
+    codeshock: "https://codeshock.dev,
+    jsdevworld: "https://jsdevworld.com
+  },
   challenge: 
     'Preparing for the JS Node Application Development and MongoDB Certified Developer certifications.'
 }
