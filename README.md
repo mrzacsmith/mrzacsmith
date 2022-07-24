@@ -6,12 +6,12 @@
 ```js
 const readme = {
   pronouns: "he" || "him",
-  aboutMe: ["techie", "star wars nerd", "gamer", "traveler", "curious about life"],
+  aboutMe: ["techie", "star wars nerd", "gamer", "curious about life"],
   loves: ["akm", "mars", "darth vader", "hatch green chile", "building web apps"],
   technologies: {
     backEnd: ["nodejs", "golang", "express", "cors", "helmet", "baas", "rest", "saas", "graphql"],
     database: ["mongo", "firestore", "redis", "sql", "supabase"],
-    deployment: ["google cloud platform", "netlify", "heroku"],
+    deployment: ["google cloud platform", "firebase", "netlify", "heroku"],
     serverless: ["cloud functions", "firebase", "netlify functions", "supabase"],
     cms: ["ghost cms"],
     misc: ["cloundiary api", "web app pentetration testing", "certified scrum master"],
@@ -24,6 +24,7 @@ const readme = {
     codeshock: "https://codeshock.dev",
     jsdevworld: "https://jsdevworld.com",
     getCredManagemnet: "https://cred.management",
+    codeShockMedia: "https://codeshockmedia.com",
     akm: "https://akm.to"
   },
   challenge: 
