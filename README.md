@@ -23,12 +23,12 @@ const readme = {
   projects: {
     codeshock: "https://codeshock.dev",
     jsdevworld: "https://jsdevworld.com",
-    getCredManagemnet: "https://cred.management",
+    getCredManagemnet: "https://getcredmanagement.com",
     codeShockMedia: "https://codeshockmedia.com",
     akm: "https://akm.to"
   },
   challenge: 
-    'Preparing for the JS Node Application Development and MongoDB Certified Developer certifications.'
+    'Learning how to do video editing and course creation!'
 }
 
 ```
