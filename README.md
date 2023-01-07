@@ -50,6 +50,8 @@ const readme = {
   <a href="https://codeshock.dev"><img src="https://res.cloudinary.com/codeshock/image/upload/w_84,h_84/ICON_PNG_bvxthw.png" /></a>
   <a href="https://akm.to"><img src="https://res.cloudinary.com/codeshock/image/upload/w_84,h_84/akm_200_bje6vt.png" /></a>
   <a href="https://jsdevworld.com"><img src="https://res.cloudinary.com/codeshock/image/upload/w_84,h_84/spaceman_kslkb4.png"></a>
+  <a href="https://codeshockmedia.com"><img src="https://res.cloudinary.com/codeshock/image/upload/w_84,h_84/ICON_PNG_bvxthw.png" /></a>
+  <a href="https://getsendmea.com"><img src="https://res.cloudinary.com/codeshock/image/upload/v1673135499/main-logo_cxyomu.svg" /></a>
   <br />
   </div>
 
