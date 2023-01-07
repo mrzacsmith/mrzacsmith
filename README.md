@@ -22,13 +22,14 @@ const readme = {
   },
   projects: {
     codeshock: "https://codeshock.dev",
-    jsdevworld: "https://jsdevworld.com",
+    sendmea: "https://getsendmea.com",
     getCredManagemnet: "https://getcredmanagement.com",
     codeShockMedia: "https://codeshockmedia.com",
     akm: "https://akm.to"
   },
-  challenge: 
-    'Learning how to do video editing and course creation!'
+  challenge: {
+    "Learning how to do video editing and course creation!"
+  }
 }
 
 ```
