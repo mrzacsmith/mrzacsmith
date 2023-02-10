@@ -22,7 +22,7 @@ const readme = {
   },
   projects: {
     codeshock: "https://codeshock.dev",
-    sendmea: "https://getsendmea.com",
+    sendmea: "https://sendmea.io",
     getCredManagemnet: "https://getcredmanagement.com",
     codeShockMedia: "https://codeshockmedia.com",
     akm: "https://akm.to"
