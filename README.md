@@ -14,7 +14,7 @@ const readme = {
     deployment: ["google cloud platform", "firebase", "netlify", "heroku"],
     serverless: ["cloud functions", "firebase", "netlify functions", "supabase"],
     cms: ["ghost cms"],
-    misc: ["cloundiary api", "web app pentetration testing", "certified scrum master"],
+    misc: ["cloundiary api", "web app pentetration testing", "certified scrum master", "chatGPT"],
   },
   education: {
     coloradoTechicalUniversity: "mscs cybersecurity engineering",
