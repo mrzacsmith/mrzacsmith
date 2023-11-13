@@ -10,6 +10,7 @@ const readme = {
   loves: ["akm", "mars", "darth vader", "hatch green chile", "building web apps"],
   technologies: {
     backEnd: ["nodejs", "golang", "express", "cors", "helmet", "baas", "rest", "saas", "graphql"],
+    frontEnd: ["reactjs", "nextjs"],
     database: ["mongo", "firestore", "redis", "sql", "supabase"],
     deployment: ["google cloud platform", "firebase", "netlify", "heroku"],
     serverless: ["cloud functions", "firebase", "netlify functions", "supabase"],
