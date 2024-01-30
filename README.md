@@ -15,7 +15,7 @@ const readme = {
     deployment: ["google cloud platform", "firebase", "netlify", "heroku"],
     serverless: ["cloud functions", "firebase", "netlify functions", "supabase"],
     cms: ["ghost cms"],
-    misc: ["cloundiary api", "web app pentetration testing", "certified scrum master", "chatGPT"],
+    misc: ["cloundiary api", "app script", "google workspaces apps", "web app penetration testing", "certified scrum master", "chatGPT"],
   },
   education: {
     coloradoTechicalUniversity: "mscs cybersecurity engineering",
@@ -24,6 +24,9 @@ const readme = {
   projects: {
     codeshock: "https://codeshock.dev",
     sendmea: "https://sendmea.io",
+    AiStudyFlow: "[https://aistudyflow.com",
+    IdeaFlowAi: "https://ideaflowai.com/",
+    LeadMagmentIQ: "https://leadmagnetiq.com/".
     getCredManagemnet: "https://getcredmanagement.com",
     codeShockMedia: "https://codeshockmedia.com",
     akm: "https://akm.to"
