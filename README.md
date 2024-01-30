@@ -24,9 +24,9 @@ const readme = {
   projects: {
     codeshock: "https://codeshock.dev",
     sendmea: "https://sendmea.io",
-    AiStudyFlow: "[https://aistudyflow.com",
-    IdeaFlowAi: "https://ideaflowai.com/",
-    LeadMagmentIQ: "https://leadmagnetiq.com/".
+    aiStudyFlow: "[https://aistudyflow.com",
+    ideaFlowAi: "https://ideaflowai.com/",
+    leadMagmentIQ: "https://leadmagnetiq.com/".
     getCredManagemnet: "https://getcredmanagement.com",
     codeShockMedia: "https://codeshockmedia.com",
     akm: "https://akm.to"
