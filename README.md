@@ -7,23 +7,25 @@
 const readme = {
   pronouns: "he" || "him",
   aboutMe: ["techie", "star wars nerd", "gamer", "curious about life"],
-  loves: ["akm", "mars", "darth vader", "hatch green chile", "building web apps"],
+  loves: ["akm", "mars", "darth vader", "hatch green chile", "building web apps", "business automation", "llm/open ai"],
   technologies: {
     backEnd: ["nodejs", "golang", "express", "cors", "helmet", "baas", "rest", "saas", "graphql"],
     frontEnd: ["reactjs", "nextjs"],
     database: ["mongo", "firestore", "redis", "sql", "supabase"],
     deployment: ["google cloud platform", "firebase", "netlify", "heroku"],
     serverless: ["cloud functions", "firebase", "netlify functions", "supabase"],
+    aiAutomation: ["make.com", "open ai", "python 3", "google collab"],
     cms: ["ghost cms"],
     misc: ["cloundiary api", "app script", "google workspaces apps", "web app penetration testing", "certified scrum master", "chatGPT"],
   },
   education: {
-    coloradoTechicalUniversity: "mscs cybersecurity engineering",
+    coloradoTechnicalUniversity: "mscs cybersecurity engineering",
     newMexicoStateUniversity: "bs information and communication technology"
   },
   projects: {
     codeshock: "https://codeshock.dev",
     sendmea: "https://sendmea.io",
+    codeShockAi: "https://codeshockai.com",
     aiStudyFlow: "[https://aistudyflow.com",
     ideaFlowAi: "https://ideaflowai.com/",
     leadMagmentIQ: "https://leadmagnetiq.com/".
