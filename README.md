@@ -34,7 +34,7 @@ const readme = {
     akm: "https://akm.to"
   },
   challenge: {
-    "Learning how to do video editing and course creation!"
+    "Creating new ways to use ai and automation to help small businesses grow!"
   }
 }
 
