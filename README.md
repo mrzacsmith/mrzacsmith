@@ -11,7 +11,7 @@ const readme = {
   technologies: {
     backEnd: ["nodejs", "golang", "express", "cors", "helmet", "baas", "rest", "saas", "graphql"],
     frontEnd: ["reactjs", "nextjs"],
-    database: ["mongo", "firestore", "redis", "sql", "supabase"],
+    database: ["mongo", "firestore", "redis", "nosql", "sql", "supabase"],
     deployment: ["google cloud platform", "firebase", "netlify", "heroku"],
     serverless: ["cloud functions", "firebase", "netlify functions", "supabase"],
     aiAutomation: ["make.com", "open ai", "python 3", "google collab"],
