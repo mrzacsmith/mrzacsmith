@@ -14,7 +14,7 @@ const readme = {
     database: ["mongo", "firestore", "redis", "nosql", "sql", "supabase"],
     deployment: ["google cloud platform", "firebase", "netlify", "heroku"],
     serverless: ["cloud functions", "firebase", "netlify functions", "supabase"],
-    aiAutomation: ["make.com", "open ai", "python 3", "google collab"],
+    aiAutomation: ["make.com", "open ai", "python 3", "google collab", "llama3", "groq", "crewai"],
     cms: ["ghost cms"],
     misc: ["cloundiary api", "app script", "google workspaces apps", "web app penetration testing", "certified scrum master", "chatGPT"],
   },
