@@ -10,15 +10,16 @@ const readme = {
   loves: ["akm", "mars", "darth vader", "hatch green chile", "building web apps",
     "business automation", "llm/open ai"],
   technologies: {
-    backEnd: ["nodejs", "golang", "express", "cors", "helmet", "baas", "rest", "saas", "graphql"],
+    backEnd: ["nodejs", "python", "golang", "express", "cors", "helmet", "baas", "rest", "saas", "graphql"],
     frontEnd: ["reactjs", "nextjs"],
     database: ["mongo", "firestore", "redis", "nosql", "sql", "supabase"],
     deployment: ["google cloud platform", "firebase", "netlify", "heroku"],
     serverless: ["cloud functions", "firebase", "netlify functions", "supabase"],
-    aiAutomation: ["make.com", "open ai", "python 3", "google collab", "llama3", "groq", "crewai"],
+    automation: ["make.com", "open ai", "google", "slack", "anthropic", "custom gpt"],
+    ai: ["langchain", "langsmith", "langserve", "fast api", "llm", "ollma", "grok"], 
     cms: ["ghost cms"],
     misc: ["cloundiary api", "app script", "google workspaces apps", "web app penetration testing",
-      "certified scrum master", "chatGPT"],
+      "certified scrum master"],
   },
   education: {
     phd: "computer science", "phd cs",
@@ -28,7 +29,8 @@ const readme = {
   projects: {
     codeshock: "https://codeshock.dev",
     sendmea: "https://sendmea.io",
-    codeShockAi: "https://codeshockai.com",
+    aiAutomationElite: "https://aiautomationelite.com",
+    aiAutomationEliteSkool: "https://learn.aiautomationelite.com",
     aiStudyFlow: "[https://aistudyflow.com",
     ideaFlowAi: "https://ideaflowai.com/",
     leadMagmentIQ: "https://leadmagnetiq.com/".
