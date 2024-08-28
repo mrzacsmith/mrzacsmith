@@ -16,7 +16,7 @@ const readme = {
     deployment: ["google cloud platform", "firebase", "netlify", "heroku"],
     serverless: ["cloud functions", "firebase", "netlify functions", "supabase"],
     automation: ["make.com", "open ai", "google", "slack", "anthropic", "custom gpt"],
-    ai: ["langchain", "langsmith", "langserve", "fast api", "llm", "ollma", "grok"], 
+    ai: ["langchain", "langsmith", "langserve", "fast api", "llm", "ollama", "llamaIndex", "crew ai", "grok"], 
     cms: ["ghost cms"],
     misc: ["cloundiary api", "app script", "google workspaces apps", "web app penetration testing",
       "certified scrum master"],
