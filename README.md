@@ -31,7 +31,7 @@ const readme = {
     sendmea: "https://sendmea.io",
     aiAutomationElite: "https://aiautomationelite.com",
     aiAutomationEliteSkool: "https://learn.aiautomationelite.com",
-    viralai.online: "https://viralai.online",
+    viralAiOnline: "https://viralai.online",
     aiStudyFlow: "[https://aistudyflow.com",
     ideaFlowAi: "https://ideaflowai.com/",
     leadMagmentIQ: "https://leadmagnetiq.com/".
