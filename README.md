@@ -7,7 +7,7 @@
 const readme = {
   aboutMe: ["techie", "star wars nerd", "gamer", "curious about life"],
   loves: ["akm", "mars", "darth vader", "hatch green chile", "building web apps",
-    "business automation", "llm/open ai"],
+    "business automation", "llm/open ai", "vibe coding"],
   technologies: {
     backEnd: ["nodejs", "python", "golang", "express", "cors", "helmet", "baas", "rest", "saas", "graphql"],
     frontEnd: ["reactjs", "nextjs"],
