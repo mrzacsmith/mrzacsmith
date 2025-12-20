@@ -8,7 +8,7 @@ const readme = {
   aboutMe: ["techie", "star wars nerd", "gamer", "curious about life"],
   position: "principle ai engineer gauntlet ai",
   loves: ["akm", "mars", "darth vader", "hatch green chile", "building web apps",
-    "business automation", "llm/open ai", "vibe coding"],
+    "business automation", "llms", "ai first engineering"],
   technologies: {
     backEnd: ["nodejs", "python", "golang", "rust", "express", "cors", "helmet", "baas", "rest", "saas", "graphql"],
     frontEnd: ["reactjs", "nextjs"],
@@ -16,7 +16,7 @@ const readme = {
     deployment: ["google cloud platform", "firebase", "netlify", "heroku"],
     serverless: ["cloud functions", "firebase", "netlify functions", "supabase"],
     automation: ["make.com", "open ai", "google", "slack", "anthropic", "custom gpt"],
-    ai: ["langchain", "langsmith", "langserve", "fast api", "llm", "ollama", "llamaIndex", "crew ai", "grok"],
+    ai: ["langchain", "langsmith", "langserve", "claude", "cursor/claude code", "ollama", "ai studio", "grok"],
     cliAgentTools: ["code review cli", "cursor rules cli"],
     cms: ["ghost cms"],
     misc: ["cloundiary api", "app script", "google workspaces apps", "web app penetration testing",
@@ -34,7 +34,8 @@ const readme = {
     cursorRulesCli: "https://www.npmjs.com/package/@mrzacsmith/cursor-rules",
     gauntletAi: "https://gauntletai.com",
     gauntletApply: "https://apply.gauntletai.com",
-    sendmea: "https://sendmea.io"
+    sendmea: "https://sendmea.io",
+    rankrebel: "https://rankrebel.io"
   },
   challenge: {
     "Pioneering AI-first development approaches and security to transform how we build and scale modern applications!"
