@@ -35,10 +35,11 @@ const readme = {
     gauntletAi: "https://gauntletai.com",
     gauntletApply: "https://apply.gauntletai.com",
     sendmea: "https://sendmea.io",
-    rankrebel: "https://rankrebel.io"
+    rankrebel: "https://rankrebel.io",
+    ship12: "https://ship12.codeshockai.com"
   },
   challenge: {
-    "Pioneering AI-first development approaches and security to transform how we build and scale modern applications!"
+    ship12: "Building 12 SaaS products in 12 months with AI-first engineering. 40 hours. $200 budget. $1K MRR goal. Full transparency."
   }
 }
 ```
