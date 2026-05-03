@@ -1,7 +1,6 @@
-![Zac Smith, Principal AI Engineer][heroImage]
+![Zac Smith, Principal AI Engineer](https://raw.githubusercontent.com/mrzacsmith/mrzacsmith/master/hero.png)
 
 ## Hi, My name is Zac! Principal AI Engineer at Gauntlet AI, helping train the best AI engineers in the world.
-
 
 ```js
 const readme = {
@@ -51,6 +50,4 @@ const readme = {
     buildBenchMark: "Building Build Bench(mark) to test LLMs in a way that is useful to AI software engineers."
   }
 }
-
-
-![hero](https://raw.githubusercontent.com/mrzacsmith/mrzacsmith/master/hero.png)
+```
