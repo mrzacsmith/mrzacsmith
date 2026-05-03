@@ -51,3 +51,6 @@ const readme = {
     buildBenchMark: "Building Build Bench(mark) to test LLMs in a way that is useful to AI software engineers."
   }
 }
+
+
+![hero](https://raw.githubusercontent.com/mrzacsmith/mrzacsmith/master/hero.png)
