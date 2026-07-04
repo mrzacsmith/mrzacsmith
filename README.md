@@ -33,14 +33,15 @@ const readme = {
     bs: "information technology", "bict"
   },
   projects: {
+    cairTools: "https://cairntools.com",
     codeshock: "https://codeshock.dev",
     codeReviewCli: "https://www.npmjs.com/package/@mrzacsmith/code-review-cli",
     cursorRulesCli: "https://www.npmjs.com/package/@mrzacsmith/cursor-rules",
     gauntletAi: "https://gauntletai.com",
     gauntletApply: "https://apply.gauntletai.com",
-    digitalThoughtLabs: "https://digitalthoughtlabs.pages.dev/",
-    buildBenchMark: "https://digitalthoughtlabs.pages.dev/buildbench/",
-    autoCSuite: "https://autocsuite.web.app/",
+    digitalThoughtLabs: "https://digitalthoughtlabs.com",
+    buildBenchMark: "https://digitalthoughtlabs.com/buildbench",
+    autoCSuite: "https://autocsite",
     sendmea: "https://sendmea.io",
     rankrebel: "https://rankrebel.io",
     ship12: "https://ship12.codeshockai.com"
