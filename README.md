@@ -33,7 +33,7 @@ const readme = {
     bs: "information technology", "bict"
   },
   projects: {
-    cairTools: "https://cairntools.com",
+    cairnTools: "https://cairntools.com",
     codeshock: "https://codeshock.dev",
     codeReviewCli: "https://www.npmjs.com/package/@mrzacsmith/code-review-cli",
     cursorRulesCli: "https://www.npmjs.com/package/@mrzacsmith/cursor-rules",
