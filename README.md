@@ -37,6 +37,7 @@ const readme = {
     codeshock: "https://codeshock.dev",
     codeReviewCli: "https://www.npmjs.com/package/@mrzacsmith/code-review-cli",
     cursorRulesCli: "https://www.npmjs.com/package/@mrzacsmith/cursor-rules",
+    findMeeting.fit: "https://findmeeting.fit",
     gauntletAi: "https://gauntletai.com",
     gauntletApply: "https://apply.gauntletai.com",
     digitalThoughtLabs: "https://digitalthoughtlabs.com",
