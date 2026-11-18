@@ -1,6 +1,6 @@
 ![Zac Smith, Principal AI Engineer](https://raw.githubusercontent.com/mrzacsmith/mrzacsmith/master/hero.png)
 
-## Hi, My name is Zac! Principal AI Engineer at Gauntlet AI.
+## Hi, My name is Zac! Principal AI Engineer.
 
 ```js
 const readme = {
